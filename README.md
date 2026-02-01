@@ -37,7 +37,7 @@ subjectAltName         = @alt_names
 
 [alt_names]
 DNS.1 = mele.box
-DNS.1 = *.mele.box
+DNS.2 = *.mele.box
 EOF
 ```
 Now generate key + CSR:
